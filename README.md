@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**AlaphaSimanga/AlaphaSimanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Hi there 👋
+
+🚀 About Me 
+
+🎓I am Alapha Simanga, a Software Developer graduate from CodeSpace Academy (specializing in Fullstack development)
+👩‍💻I am really enthusiastic about learning new languages everyday. I learnt HTML, CSS, JavaScript, PHP and MySql.
+
+🌠Outside the world of coding/tech,I enjoy reading novels, reading about what's happening around me and browsing social media.
+  I also like going to the beach for fresh air. 
